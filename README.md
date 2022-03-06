@@ -1,1 +1,1 @@
-# Activity01-PAreja
+# Activity01-Pareja
